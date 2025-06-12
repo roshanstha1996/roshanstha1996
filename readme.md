@@ -1,52 +1,28 @@
 <h1>🚀 Roshan Shrestha</h1>
-Mobile & Dot Net Developer
-Languages & Frameworks: Kotlin • Swift • React Native • TypeScript • JavaScript • C#
-Back-End & Databases: Node.js • .NET MVC • JWT Authentication • Firebase • Firestore • MongoDB • SQL Server
-Tools & Practices: Git • REST APIs • JWT • Agile/Scrum • Clean Architecture
 
-🎓 Education
-Graduate Certificate – Mobile Application Development & Strategy
-George Brown College (May 2024 – Apr 2025)
+I’m a Software Developer and Mobile Developer passionate about building seamless, scalable apps using React Native, Kotlin, Swift, C#, and TypeScript.
 
-Built cross‑platform apps in React Native, Kotlin, and Swift.
+💻 I’ve developed Android 🤖, iOS 🍎, and cross-platform ⚛️ apps, worked with Node.js and Firebase for backend, and contributed to clean architecture in co-op and team-based environments.
 
-Co‑op e‑commerce project with TypeScript, JWT auth, MongoDB.
+🛠️ As a Software Developer, I built scalable RESTful APIs using .NET MVC and SQL Server, migrated legacy systems, secured backend operations with encryption and access control, and collaborated closely with mobile teams to integrate services into Android and iOS apps.
 
-Developed apps for event discovery, property rental, pizza ordering.
+✅ I thrive in Agile teams, enjoy collaborative coding, and love turning ideas into polished mobile experiences. I’m based in Toronto 🇨🇦 and open to global opportunities.
 
-BSc (Hons) Computing – The British College, Kathmandu (2018–2019)
+📫 Let’s connect and build something impactful!
 
-💼 Professional Experience
-Software Developer @ Inficare Pvt. Ltd., Nepal (2021–2024)
+---
 
-Designed RESTful APIs using .NET MVC, SQL Server, and the Repository pattern.
+### 🚀 My Projects
 
-Built dynamic admin panel, migrated legacy systems for performance gains.
+[Pizza Order App](https://github.com/roshanstha1996/PIZZA_ORDER) – Android app for ordering veg/non-veg pizzas  
+[Property Rental App](https://github.com/roshanstha1996/PROPERTY_APP_RENTAL) – Cross-platform rental listing app with map integration  
+[Crypto App](https://github.com/roshanstha1996/CryptoApp) – React Native app for live crypto tracking  
+[Parking Simulator](https://github.com/roshanstha1996/Parking) – Android-based simulation of parking logic  
+[Eventzz App](https://github.com/roshanstha1996/EVENTZZ_G05) – Discover and save events locally via external API  
 
-Implemented secure data‐handling: encryption, role‑based access, data recovery.
+---
 
-Collaborated to integrate APIs with Android/iOS apps, and optimized SQL procedures.
+📍 North York, Toronto  
+📧 roshanstha1996@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/roshan-shrestha-743015361)
 
-Associate Software Engineer @ Luniva Tech Pvt. Ltd., Nepal (2019–2020)
-
-Built desktop and web billing apps using C#, ASP.NET, and SQL Server.
-
-Developed MVC services and dynamic reporting queries.
-
-Provided deployment support and delivered client training sessions.
-
-🛠 Projects
-🍕 Pizza Order App (Android – Java/Kotlin)
-An intuitive pizza ordering app supporting veggie and non‑veggie selections, cart functionality, and clean UI flow. Perfect for smooth ordering experiences.
-
-🏡 Property Rental App (React Native, TypeScript, Firebase)
-Cross‑platform rental app featuring Google Maps integration. Enables users to create listings and rent properties with real-time database support.
-
-📈 Crypto Tracker App (React Native, Crypto API)
-Simple, responsive mobile app that fetches live cryptocurrency trends using external APIs. Showcases clean UI and real‑time data handling.
-
-🚗 Parking Simulator (Android – Java/Kotlin)
-Interactive parking logic simulator demonstrating conditional flows and responsive UI in Android.
-
-🎉 Eventzz App (React Native)
-Local event discovery tool that filters events by category, integrates external APIs, and lets users bookmark favorite events for later.
