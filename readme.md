@@ -1,4 +1,5 @@
-🚀 Roshan Shrestha – Mobile & Full‑Stack Developer
+🚀 Roshan Shrestha 
+Mobile & Dot Net Developer
 Languages & Frameworks: Kotlin • Swift • React Native • TypeScript • JavaScript • C#
 Back-End & Databases: Node.js • .NET MVC • JWT Authentication • Firebase • Firestore • MongoDB • SQL Server
 Tools & Practices: Git • REST APIs • JWT • Agile/Scrum • Clean Architecture
